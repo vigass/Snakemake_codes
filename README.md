@@ -1,1 +1,1 @@
-- A test code for the frist to use Snakemake
+- A code for the frist to use Snakemake
